@@ -6,6 +6,7 @@ A python script which downloads the latest manga from mangastream.com using Beau
 Requirements:
   * <a href="http://www.python.org/getit/">Python 2.7+</a>
   * <a href="http://www.crummy.com/software/BeautifulSoup/#Download">BeautifulSoup 4</a>
+  * <a href="http://wwwsearch.sourceforge.net/mechanize/">Mechanize</a>
 
 Usage:
 
